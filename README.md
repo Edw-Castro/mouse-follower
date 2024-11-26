@@ -1,0 +1,1 @@
+Este proyecto está basado en el tutorial de [midulive] en su canal de YouTube. El tutorial original se puede encontrar [https://www.youtube.com/watch?v=qkzcjwnueLA&list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29&index=2].
